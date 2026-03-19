@@ -28,5 +28,10 @@ register_crop_weather_tools(mcp)
 register_statistics_tools(mcp)
 register_food_tools(mcp)
 
+def main():
+    """Server starten."""
+    mcp.run(transport="stdio")
+
+
 if __name__ == "__main__":
-    mcp.run()
+    main()
