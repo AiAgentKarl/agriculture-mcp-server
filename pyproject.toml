@@ -26,5 +26,8 @@ dependencies = [
 Homepage = "https://github.com/AiAgentKarl/agriculture-mcp-server"
 Repository = "https://github.com/AiAgentKarl/agriculture-mcp-server"
 
+[project.scripts]
+agriculture-server = "src.server:main"
+
 [tool.hatch.build.targets.wheel]
 packages = ["src"]
