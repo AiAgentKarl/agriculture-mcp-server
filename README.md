@@ -2,6 +2,8 @@
 
 MCP server providing AI agents with agriculture and farming data — soil conditions, crop weather, climate history, global statistics, and food products.
 
+[![agriculture-mcp-server MCP server](https://glama.ai/mcp/servers/AiAgentKarl/agriculture-mcp-server/badges/card.svg)](https://glama.ai/mcp/servers/AiAgentKarl/agriculture-mcp-server)
+
 ## 8 Tools in 4 Categories
 
 ### Soil Conditions
